@@ -1,0 +1,14 @@
+{
+    "id": "Buttlatro",
+    "name": "Buttlatro",
+    "version": "1.0.0",
+    "description": [
+        "Vibrates a Buttplug framework",
+        "compatible device as your hand is scored!",
+        "Press M to test your device connection.",
+        "(Re-enabling mod requires restart)"
+    ],
+    "author": "Fraggenard",
+    "load_before": [],
+    "load_after": []
+}
